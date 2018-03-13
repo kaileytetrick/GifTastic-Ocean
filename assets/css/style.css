@@ -1,0 +1,66 @@
+body {
+    background: url("../images/Under-Ocean.jpg");
+    font-family: fantasy;
+    color: #034578;
+    font: bold;
+    text-shadow: 2px 2px #7be90c;
+}
+
+.jumbotron.col-lg-12.col-md-12.col-sm-12 {
+	background: url("../images/coralz.jpg");
+	border: 2px solid white;
+	margin-bottom: 0px;
+}
+
+div#Master-header {
+    background: url("../images/Under-Ocean.jpg");
+    background-size: cover;
+}
+
+h1.text-center {
+    color: #034578;
+    font-size: 90px;
+    font: bold;
+    font-style: oblique;
+    text-shadow: 2px 2px #7be90c;
+}
+
+div#gif-display {
+	border: 2px solid white;
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+.item {
+	background: rgba(255, 255, 255, 0.5);
+	margin: auto;
+    width: 100%;
+    padding-bottom: 20px;
+}
+
+img.gif-image {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+p.rating-info {
+	font-size: 18px;
+	padding: 15px;
+}
+
+.btn-info {
+    background: url("../images/Under-Ocean.jpg");
+    border-color: #e6edee;
+    margin: 2px;
+    color: #034578;
+    font: bold;
+    text-shadow: 1px 1px #7be90c;
+}
+
+.btn {
+    font-size: 20px;
+
+}
+input#gify-input {
+    margin-top: 10px;
+}
