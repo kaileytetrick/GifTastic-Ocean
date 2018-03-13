@@ -10,7 +10,7 @@ View & search for gifs pulled from giphy's API!
 <h3>How It Works:</h3>
 <ul>
 <li>Users can view up to 10 gifs of the sea creatures listed by clicking on one of the pre-existing buttons.</li>
-<li>The icon of the gif must be clicked for it to become animated/active. Clicking the gif again will stop the animatio\.</li>
+<li>The icon of the gif must be clicked for it to become animated/active. Clicking the gif again will stop the animation/make it still.</li>
 <li>Users can also use the search function to view the gifs of their choice. Searches will create buttons to be selected again.</li>
 </ul>
 
@@ -21,7 +21,7 @@ View & search for gifs pulled from giphy's API!
   <li>Bootstrap</li>
   <li>JavaScript</li>
   <li>jQuery</li>
-  <li>AJAX API Requests>
+ <li>AJAX API Requests</li>
 </ul>
   
 No installations or prequisites necessary to play.
